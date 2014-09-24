@@ -7,5 +7,6 @@ int func() {
   res += sub_func_1();
   res += sub_func_2();
   res += sub_func_3();
+  res *= 2;
   return res;
 }
