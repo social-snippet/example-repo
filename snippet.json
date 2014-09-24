@@ -1,0 +1,6 @@
+{
+  "name": "example-repo",
+  "desc": "This is an example repository.",
+  "language": "C++",
+  "main": "src"
+}
